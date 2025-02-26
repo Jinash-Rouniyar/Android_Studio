@@ -1,3 +1,9 @@
+# MarsPhotos
+
+<p align="center">
+<img src="screenshot.png" style="width:528px;max-width: 100%;">
+</p>
+
 ## Features
 
 - modifying a starter app to make a web service API request and handle the response.
